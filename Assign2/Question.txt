@@ -1,0 +1,12 @@
+
+Link-> https://www.datablist.com/learn/csv/download-sample-csv-files
+
+Download Sample CSV Files for free - Datablist (People_10000)
+You can download sample CSV files here for testing purposes. The datasets can be used in any software application compatible with CSV files. An easy tool to edit CSV ...
+
+
+1. Load Customer dataset
+2. Identify duplicate customers basis first name and last name 
+3. Assign Master ID to matching customers
+4. Write back table enriched with Master ID back to another table/csv file
+ star 1
